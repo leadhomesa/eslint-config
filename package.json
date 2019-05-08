@@ -1,0 +1,38 @@
+{
+    "name": "@leadhome/eslint-config",
+    "version": "1.0.9",
+    "description": "A shareable ESLint configuration",
+    "main": ".eslintrc",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/leadhomesa/eslint-config.git"
+    },
+    "bugs": {
+        "url": "https://github.com/leadhomesa/eslint-config/issues"
+    },
+    "author": "Leadhome <info@leadhome.co.za> (https://leadhome.co.za)",
+    "license": "GPL-2.0+",
+    "homepage": "https://github.com/leadhomesa/eslint-config#readme",
+    "keywords": [
+        "eslint",
+        "eslint-config",
+        "leadhome"
+    ],
+    "devDependencies": {
+        "eslint": "^5.16.0",
+        "eslint-config-prettier": "^3.6.0",
+        "eslint-config-standard": "^12.0.0",
+        "eslint-config-standard-react": "^7.0.2",
+        "eslint-plugin-import": "^2.17.2",
+        "eslint-plugin-jsx-a11y": "^6.1.2",
+        "eslint-plugin-node": "^8.0.1",
+        "eslint-plugin-prettier": "^3.0.1",
+        "eslint-plugin-promise": "^4.1.1",
+        "eslint-plugin-react": "^7.13.0",
+        "eslint-plugin-standard": "^4.0.0",
+        "eslint-plugin-unicorn": "^7.0.0"
+    },
+    "eslintConfig": {
+        "extends": "./.eslintrc"
+    }
+}
