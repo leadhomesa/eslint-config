@@ -1,5 +1,3 @@
-# This has not been released on NPM yet.
-
 # eslint-config-leadhome
 
 A shareable configuration package for [eslint](http://eslint.org).
