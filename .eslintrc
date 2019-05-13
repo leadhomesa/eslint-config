@@ -24,10 +24,6 @@
         "error",
         "always"
       ],
-      "curly": [
-        "error",
-        "multi"
-      ],
       "indent": [
         "error",
         2,
