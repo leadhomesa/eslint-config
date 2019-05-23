@@ -5,13 +5,11 @@ A shareable configuration package for [eslint](http://eslint.org).
 ## Installation
 
 To use this config, install [@leadhome/eslint-config](https://github.com/leadhomesa/eslint-config) as a development dependecy of your project:
-
 ```sh
 npm install @leadhome/eslint-config --save-dev
 ```
 
 Next, add this configuration to your `package.json`:
-
 ```json
 {
     "eslintConfig": {
@@ -21,7 +19,6 @@ Next, add this configuration to your `package.json`:
 ```
 
 Or add a .eslintrc file to your project root containing: 
-
 ```json
 {
     "extends": "@leadhome/eslint-config"
