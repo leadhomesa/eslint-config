@@ -11,7 +11,6 @@ npm install @leadhome/eslint-config --save-dev
 ```
 
 Next, add this configuration to your `package.json`:
-
 ```json
 {
     "eslintConfig": {
