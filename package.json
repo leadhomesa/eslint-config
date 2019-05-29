@@ -41,6 +41,13 @@
     "eslintConfig": {
         "extends": "./.eslintrc"
     },
+    "prettier": {
+        "printWidth": 80,
+        "trailingComma": "none",
+        "singleQuote": true,
+        "jsxSingleQuote": true,
+        "semi": true
+    },
     "config": {
         "commitizen": {
             "path": "./node_modules/cz-conventional-changelog"
