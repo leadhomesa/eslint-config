@@ -14,7 +14,8 @@ Next, add this configuration to your `package.json`:
 {
     "eslintConfig": {
         "extends": "@leadhome/eslint-config"
-    }
+    },
+    "prettier": "@leadhome/eslint-config/.prettierrc.json"
 }
 ```
 
@@ -26,9 +27,9 @@ Or add a .eslintrc file to your project root containing:
 ```
 
 Then, add the following to your `package.json`:
-```
+```json
 {
-  "prettier": "@leadhome/eslint-config"
+  "prettier": "@leadhome/eslint-config/.prettierrc.json"
 }
 ```
 
