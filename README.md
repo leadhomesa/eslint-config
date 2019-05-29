@@ -25,6 +25,13 @@ Or add a .eslintrc file to your project root containing:
 }
 ```
 
+Then, add the following to your `package.json`:
+```
+{
+  "prettier": "@leadhome/eslint-config"
+}
+```
+
 License
 -------
 
