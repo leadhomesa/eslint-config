@@ -13,7 +13,8 @@
     "plugins": [
       "jsx-a11y",
       "import",
-      "unicorn"
+      "unicorn",
+      "react-hooks"
     ],
     "rules": {
       "jsx-quotes": [
@@ -97,7 +98,9 @@
         {
           "case": "kebabCase"
         }
-      ]
+      ],
+      "react-hooks/rules-of-hooks": "error",
+      "react-hooks/exhaustive-deps": "warn"
     },
     "settings": {
       "import/resolver": {
