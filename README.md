@@ -4,7 +4,7 @@ A shareable configuration package for [eslint](http://eslint.org).
 
 ## Installation
 
-To use this config, install [@leadhome/eslint-config](https://github.com/leadhomesa/eslint-config) as a development dependecy of your project:
+To use this config, install [@leadhome/eslint-config](https://github.com/leadhomesa/eslint-config) as a development dependency of your project:
 ```sh
 npm install @leadhome/eslint-config --save-dev
 ```
