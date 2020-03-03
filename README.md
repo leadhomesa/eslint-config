@@ -36,7 +36,7 @@ Then, add the following to your `package.json`:
 License
 -------
 
-@leadhome/eslint-config is © 2019 Leadhome Pty Ltd.
+@leadhome/eslint-config is © 2020 Leadhome Pty Ltd.
 It is free software, and may be redistributed under the terms specified in the [LICENSE](LICENSE) file.
 
 Maintained by
