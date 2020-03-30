@@ -19,6 +19,8 @@
       "react-hooks"
     ],
     "rules": {
+      "no-alert": "error",
+      "no-console": "error",
       "jsx-quotes": [
         "error",
         "prefer-single"
